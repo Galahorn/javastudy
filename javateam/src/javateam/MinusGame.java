@@ -1,5 +1,5 @@
 package javateam;
 
-public class ex1 {
+public class MinusGame {
 
 }
