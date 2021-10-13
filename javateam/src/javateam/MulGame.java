@@ -1,5 +1,5 @@
 package javateam;
-
+// <Á¤¼º¼ö>
 public class MulGame implements iGame{
 
 	@Override
