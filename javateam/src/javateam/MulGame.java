@@ -1,5 +1,5 @@
 package javateam;
-// 정성수
+// (정성수)
 public class MulGame implements iGame{
 
 
