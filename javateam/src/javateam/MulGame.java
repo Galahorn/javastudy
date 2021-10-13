@@ -1,6 +1,7 @@
 package javateam;
-// <정성수>
+// 정성수
 public class MulGame implements iGame{
+
 
 	@Override
 	public void makeRandom() {
@@ -19,5 +20,5 @@ public class MulGame implements iGame{
 		// TODO Auto-generated method stub
 		return false;
 	}
-
+  
 }

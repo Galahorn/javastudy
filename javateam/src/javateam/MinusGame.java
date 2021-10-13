@@ -1,5 +1,5 @@
 package javateam;
-// <¹Ú¹Î>
+
 public class MinusGame implements iGame{
 
 	@Override
