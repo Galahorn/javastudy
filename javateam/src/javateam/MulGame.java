@@ -1,6 +1,8 @@
 package javateam;
-
+// (Á¤¼º¼ö)
 public class MulGame implements iGame{
+
+
 
 	@Override
 	public void makeRandom() {
@@ -20,4 +22,5 @@ public class MulGame implements iGame{
 		return false;
 	}
 
+  
 }

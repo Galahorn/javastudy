@@ -1,6 +1,8 @@
 package javateam;
 
-public class DivGame implements iGame {
+
+public class DivGame implements iGame{
+
 
 	@Override
 	public void makeRandom() {
