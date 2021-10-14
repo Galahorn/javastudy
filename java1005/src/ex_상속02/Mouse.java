@@ -1,3 +1,4 @@
+
 package ex_상속02;
 
 public class Mouse {
@@ -17,4 +18,3 @@ public class Mouse {
 		System.out.println("이동하기");
 	}
 }
-

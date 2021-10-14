@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package ex_»ó¼Ó01;
 
 public class MageCharacter extends Character{

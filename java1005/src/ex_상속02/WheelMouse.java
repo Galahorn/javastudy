@@ -1,3 +1,4 @@
+
 package ex_상속02;
 
 public class WheelMouse extends Mouse {
@@ -25,5 +26,3 @@ public class WheelMouse extends Mouse {
 	public void scroll() {
 		System.out.println("스크롤");
 	}
-
-}
